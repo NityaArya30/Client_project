@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title></title>
+<meta name="description" content="" />
+        <meta name="keywords" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="http://aaztecsolution.com/assets/images/favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="http://aaztecsolution.com/assets/css/vendor/vendor.min.css">
+<link rel="stylesheet" href="http://aaztecsolution.com/assets/css/plugins/plugins.min.css">
+<link rel="stylesheet" href="http://aaztecsolution.com/assets/css/style.css">    </head>
+    <body>
+        <section class="section-space--ptb_100 text-center page-not-found">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h6 class="section-sub-title mb-20">Page not found</h6>
+                        <h1>404</h1>
+                        <p>The page you are looking for was moved, removed, renamed or never existed.</p>
+                        <a href="http://aaztecsolution.com" class="btn">Back to Home</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </body>
+</html>
